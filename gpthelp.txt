@@ -1,0 +1,99 @@
+here's what the location and citynames header and cpp files look like:
+
+citynames.h 
+#ifndef CITYNAME_H
+#define CITYNAME_H
+#include <iostream>
+
+class cityName {
+    int ID;
+    char * name;
+public:
+    int getID();
+    char * getName();
+
+    void setID(int inID);
+    void setName(char * buffer);
+    
+    cityName(int inID = 0, char * inName = nullptr);
+    ~cityName();
+    
+};
+#endif
+
+cityInfo.cpp
+#include "cityname.h"
+#include <iostream>
+using namespace std;
+
+
+int cityName::getID() { return ID; }
+char * cityName::getName() { return name; }
+
+void cityName::setID(int inID) { ID = inID; }
+void cityName::setName(char * buffer) {
+    if (name != nullptr) { delete [] name; }
+
+    int l = 0;
+    while (buffer[l] != '\0') { l++; }
+
+    name = new char[l+1];
+    for (int i = 0; i < l; i++) { name[i] = buffer[i]; }
+    name[l] = '\0';
+}
+
+cityName::cityName(int inID, char * inName) {
+    ID = inID;
+    if (inName != nullptr) {
+        setName(inName);
+    } else {
+        setName(nullptr);
+    }
+}
+cityName::~cityName() {
+    if (name != nullptr) {
+        delete [] name;
+    }
+}
+
+location.h
+#ifndef LOCATION_H
+#define LOCATION_H
+#include <iostream>
+
+class location {
+    int ID;
+    double lat;
+    double lon;
+public:
+    location(int inID = 0, double inLat = 0, double inLon = 0);
+
+    int getID();
+    double getLat();
+    double getLon();
+
+    void setID(int inID);
+    void setLat(double inLat);
+    void setLon(double inLon);
+};
+#endif
+
+location.cpp
+#include "location.h"
+#include <iostream>
+using namespace std;
+
+
+int location::getID() { return ID; }
+double location::getLat() { return lat; }
+double location::getLon() { return lon; }
+
+void location::setID(int inID) { ID = inID; }
+void location::setLat(double inLat) { lat = inLat; }
+void location::setLon(double inLon) { lon = inLon; }
+
+location::location(int inID, double inLat, double inLon) {
+    ID = inID;
+    lat = inLat;
+    lon = inLon;
+}   

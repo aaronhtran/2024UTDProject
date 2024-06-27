@@ -1,0 +1,129 @@
+129 Winnipeg, Man., Can.
+128 Wilmington, N.C.
+127 Wichita, Kan.
+126 Washington, D.C.
+125 Virginia Beach, Va.
+124 Victoria, B.C., Can.
+123 Vancouver, B.C., Can.
+122 Tulsa, Okla.
+121 Toronto, Ont., Can.
+120 Toledo, Ohio
+119 Tampa, Fla.
+118 Syracuse, N.Y.
+117 Springfield, Mo.
+116 Springfield, Mass.
+115 Springfield, Ill.
+114 Spokane, Wash.
+113 Sitka, Alaska
+112 Sioux Falls, S.D.
+111 Shreveport, La.
+110 Seattle, Wash.
+109 Savannah, Ga.
+108 Santa Fe, N.M.
+107 San Juan, P.R.
+106 San Jose, Calif.
+105 San Francisco, Calif.
+104 San Diego, Calif.
+103 San Antonio, Tex.
+102 Salt Lake City, Utah
+101 St. Louis, Mo.
+100 St. John, N.B., Can.
+99 Sacramento, Calif.
+98 Roanoke, Va.
+97 Richmond, Va.
+96 Richfield, Utah
+95 Reno, Nev.
+94 Raleigh, N.C.
+93 Quebec, Que., Can.
+92 Providence, R.I.
+91 Portland, Ore.
+90 Portland, Maine
+89 Pittsburgh, Pa.
+88 Pierre, S.D.
+87 Phoenix, Ariz.
+86 Philadelphia, Pa.
+85 Ottawa, Ont., Can.
+84 Omaha, Neb.
+83 Oklahoma City, Okla.
+82 Oakland, Calif.
+81 Nome, Alaska
+80 New York, N.Y.
+79 New Orleans, La.
+78 New Haven, Conn.
+77 Newark, N.J.
+76 Nelson, B.C., Can.
+75 Nashville, Tenn.
+74 Moose Jaw, Sask., Can.
+73 Montreal, Que., Can.
+72 Montpelier, Vt.
+71 Montgomery, Ala.
+70 Mobile, Ala.
+69 Minneapolis, Minn.
+68 Milwaukee, Wis.
+67 Miami, Fla.
+66 Memphis, Tenn.
+65 Manchester, N.H.
+64 Louisville, Ky.
+63 Los Angeles, Calif.
+62 Long Beach, Calif.
+61 London, Ont., Can.
+60 Lincoln, Neb.
+59 Lewiston, Idaho
+58 Las Vegas, Nev.
+57 Knoxville, Tenn.
+56 Klamath Falls, Ore.
+55 Kingston, Ont., Can.
+54 Key West, Fla.
+53 Kansas City, Mo.
+52 Juneau, Alaska
+51 Jacksonville, Fla.
+50 Jackson, Miss.
+49 Indianapolis, Ind.
+48 Idaho Falls, Idaho
+47 Houston, Tex.
+46 Hot Springs, Ark.
+45 Honolulu, Hawaii
+44 Helena, Mont.
+43 Havre, Mont.
+42 Grand Rapids, Mich.
+41 Grand Junction, Colo.
+40 Fresno, Calif.
+39 Fort Worth, Tex.
+38 Flagstaff, Ariz.
+37 Fargo, N.D.
+36 Eugene, Ore.
+35 El Paso, Tex.
+34 El Centro, Calif.
+33 Edmonton, Alb., Can.
+32 Eastport, Maine
+31 Duluth, Minn.
+30 Dubuque, Iowa
+29 Detroit, Mich.
+28 Des Moines, Iowa
+27 Denver, Colo.
+26 Dallas, Tex.
+25 Columbus, Ohio
+24 Columbia, S.C.
+23 Cleveland, Ohio
+22 Cincinnati, Ohio
+21 Chicago, Ill.
+20 Cheyenne, Wyo.
+19 Charlotte, N.C.
+18 Charleston, W. Va.
+17 Charleston, S.C.
+16 Carlsbad, N.M.
+15 Calgary, Alba., Can.
+14 Buffalo, N.Y.
+13 Boston, Mass.
+12 Boise, Idaho
+11 Bismarck, N.D.
+10 Birmingham, Ala.
+9 Bangor, Maine
+8 Baltimore, Md.
+7 Baker, Ore.
+6 Austin, Tex.
+5 Atlanta, Ga.
+4 Anchorage, Alaska
+3 Amarillo, Tex.
+2 Albuquerque, N.M.
+1 Albany, N.Y.
